@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JayshubI
-- 👀 I’m interested in Roblox script
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in discord bots
+- 🌱 I’m currently learning how to make a better discord bot
